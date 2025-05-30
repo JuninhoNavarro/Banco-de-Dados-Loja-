@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container h2 {
+    margin-bottom: 20px;
+}
+
+.card {
+    margin: 10px;
+}
+
+.table {
+    margin-top: 20px;
+}
